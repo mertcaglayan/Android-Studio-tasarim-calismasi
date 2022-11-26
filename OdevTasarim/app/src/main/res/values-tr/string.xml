@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perrs</string>
+    <string name="Stock">Stok</string>
+    <string name="Bank">Banka</string>
+    <string name="Sales">Satış</string>
+    <string name="Safe">Kasa</string>
+    <string name="Logitics">Lojistik</string>
+    <string name="Employee">Personel</string>
+    <string name="personel">Personel İşlem</string>
+    <string name="Exit">Çıkış</string>
+</resources>

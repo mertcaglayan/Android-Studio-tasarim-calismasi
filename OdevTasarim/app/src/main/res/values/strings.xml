@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Perrs</string>
+    <string name="Stock">Stock</string>
+    <string name="Bank">Bank</string>
+    <string name="Sales">Sales</string>
+    <string name="Safe">Safe</string>
+    <string name="Logitics">Logistics</string>
+    <string name="Employee">Employee</string>
+    <string name="personel">Personnel Processing</string>
+    <string name="Exit">Exit</string>
+
+</resources>
